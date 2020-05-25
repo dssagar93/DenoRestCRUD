@@ -11,15 +11,15 @@
 I have impelemented the aforementioned features with the help of youtube crash course by [ Traversy Media(Bob Traversy)](https://www.youtube.com/watch?v=NHHhiqwcfRM)
 
 ## Routes
-`GET` api/v1/products/
+`GET` api/v1/products/ -  Get All Products 
 
-`GET` api/v1/products/:id
+`GET` api/v1/products/:id - Get Single Product By Id
 
-`POST` api/v1/products/
+`POST` api/v1/products/ - Add New Product
 
-`PUT` api/v1/products/:id
+`PUT` api/v1/products/:id - Update Product By Id
 
-`DELETE` api/v1/products/:id
+`DELETE` api/v1/products/:id  - Delete Product By Id
 
 
 # Run a development server
